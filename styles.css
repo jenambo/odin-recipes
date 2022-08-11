@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+#title {
+    color: goldenrod;
+    background-color: black;
+    text-align: center;
+    font-size: 80px;
+}
+
+#subtitle {
+    text-align: center;
+    font-size: 30px;
+}
+
+.recipe {
+    color: rgb(207, 11, 181);
+    font-size: 20px;
+}
